@@ -5,7 +5,7 @@
 #123
 #1234
 #12345
-5
+
 n = int(input("Enter the number of rows  you want. "))
 
 #outer loop to handle number of rows
