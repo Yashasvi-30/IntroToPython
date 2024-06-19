@@ -48,7 +48,7 @@ Ensure you have Python installed on your machine. You can download Python from t
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/IntroToPython.git
+git clone https://github.com/Yashasvi-30/IntroToPython.git
 ```
 
 ### Navigate to the Repository
